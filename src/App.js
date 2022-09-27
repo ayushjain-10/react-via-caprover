@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            React deployed using CapRover!
+            React deployed using CapRover by AJ!
           </p>
           <a
             className="App-link"
